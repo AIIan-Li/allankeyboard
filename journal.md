@@ -37,12 +37,26 @@ Update: closed the window and clicked discard change because I was sure i only m
 
 *Total time spent: 180 mins*
 
-##june 11: Fixing and continuing the pcb
+##june 11: Finishing the pcb
 
 Finished positioning everything and routing all the traces. (made sure to save this time)
 
 ![alt text](image-5.png)
 
-Had a problem with the switches for 3d viewing, had to manually reassign each individual switch 
+Had a problem with the switches for 3d viewing, had to manually reassign each individual switch after downloading a library online
 *Total time spent: 240 mins*
-reminder add stabilisers
+
+##June 23: making the case
+
+It's been a while, Just finished up school so I can focus on doing this now
+For my case, i wanted to have honeycomb walls, and make it snap together to be screwless. 
+So my pcb's dimmensions are apparently bigger than the plate I had in fusion, so it interferes with my screws
+
+![alt text](image-8.png)
+
+I will have to completely restart, however I hope it's easier seeing as I only need to change all the dimmensions
+update: It was not a difficult fix, however looking at it it just looks really weird to me. I left a lot of space in my pcb design so I am going to get rid of it, and also I'll have to rewire all my traces.
+
+*Total time spent: 200 mins*
+
+##fixed 50
