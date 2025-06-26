@@ -28,8 +28,8 @@ Case
 ![case](./images/casetopview.png)
 
 
-### BOM:
-| Item                          | Cost (USD)   | Cost (CAD)   |
+### BOM (LINKS FOUND IN BOM.CSV):
+| Item                          | Cost (USD)   | Cost (CAD)   | 
 | ----------------------------- | ------------ | ------------ |
 | Akko V3 Cream Yellow Switches | \$33.00      | \$45.00      |
 | 3D Printer Filament (PLA 1kg) | \$21.00      | \$28.00      |
