@@ -2,16 +2,16 @@ Bill of Materials / Allan keyboard,,,,,,
 Allan Li,,,,,,
 June 24 2025,,,,,,
 ,,,,,,
-Item Name,Purpose,Item Source,Quantity,cost USD(w/ shipping),cost CAD(W/ shipping),Notes
-Akko V3 cream yellow switches,Mechanical switches, amazon,2,$33,$45, 
-3D Printer Filament (PLA 1kg),Print Case,Amazon,1,$21,$28,
-PCB x5 (min quantity),the pcb,JLCPCB,1,$0,0, free because of coupons (shipping included)
-1N4148 Diodes x100,they are diodes,Aliexpress,2,$1.5,$2,
-Durock V3 Stabilizers,Stability for longer keys,Amazon,1,$10,$13,
-heatset inserts,for screwing in the screws,aliexpress,1,$5.1,$7,
-nice!nanov2,mcu,typeractive,1,$44,$60,
-keycaps,to click,aliexpress,1,$9,$12,
-,,,,,,
+Item Name,Purpose,Item Source,Quantity,cost USD(w/ shipping),cost CAD(W/ shipping),link
+Akko V3 cream yellow switches,Mechanical switches, amazon,2,$33,$45, https://www.amazon.ca/Akko-Keyboard-Dustproof-Mechanical-Switches/dp/B0C3H8NVJV/
+3D Printer Filament (PLA 1kg),Print Case,Amazon,1,$21,$28,https://www.amazon.ca/ELEGOO-Filament-Dimensional-Accuracy-Compatible/dp/B0BM4F65SL/
+PCB x5 (min quantity),the pcb,JLCPCB,1,$0,0, jlcpcb.com (free)
+1N4148 Diodes x100,they are diodes,Aliexpress,2,$1.5,$2,https://www.aliexpress.com/item/1005003194692663.html?
+Durock V3 Stabilizers,Stability for longer keys,aliexpress,1,$10,$13,https://www.aliexpress.com/item/1005002192386317.html?
+heatset inserts,for screwing in the screws,aliexpress,1,$5.1,$7,https://www.aliexpress.com/item/1005006472962973.html?
+nice!nanov2,mcu,typeractive,1,$44,$60,https://typeractive.xyz/products/nice-nano?srsltid=AfmBOoqij0c7tpPT_bDOtNR7-7pGCg-IN1bPyshm2pV3eJ0yXzr0o6fv
+keycaps,to click,aliexpress,1,$9,$12,https://www.aliexpress.com/item/1005007321700850.html?
+screw,to secure case,aliexpress,1,1.8,2.5,https://www.aliexpress.com/item/4000056753202.html?
 ,,,,,,
 ,,,,,,
 TOTAL,,,,$123.6,$170,Shipping included even without coupons comes out to 143.6 USD
