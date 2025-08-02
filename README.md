@@ -2,6 +2,8 @@
 ### About:
 A 75% keyboard with a custom case. All parts under $150 USD, uses screw in stabilisers, and has akko v3 yellow switches along with M3 heatset inserts and screws. I made this project to learn more about CAD and making hardware projects. I thought it would be a reasonable next step after a macropad (was way harder actually) however I got to challenge myself and learn new things. 
 
+![final build](./images/final%20build%20pics.jpeg)
+[project demo](https://youtu.be/CJazeotiTts)
 
 ### Case:
 
