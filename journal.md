@@ -5,7 +5,7 @@ description: "Allan keyboard is a keyboard made for Allan"
 created_at: "2025-06-09"
 ---
 **Total time spent:1070 mins| 18 hours**
-
+**Total time spent building: 4 hours** 
 
 ##June 9: research and getting started
 
@@ -156,5 +156,7 @@ Final result
 
 This goes with the part where I soldered the switches but I just realised and figured it goes better with the picture I have. Becase I bottom mounted the mcu, the pins poked out slightly too much that it interfered with the plate. I tried cutting the pins shorter and ended up breaking my wire cutters. I then used pliers to bend them in half but still noting worked. I had to cut out that part of my keyboard and leave it exposed. I do plan to create a new plate top, this time covering over the new empty hole + additional features. 
 
+time spent : 30 mins
 
+**total time spent: 180 mins** 
 
