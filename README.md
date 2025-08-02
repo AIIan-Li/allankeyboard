@@ -1,12 +1,11 @@
-
 # Allan's keyboard
 ### About:
-A 75% keyboard with a custom case. All parts under $150 USD, uses screw in stabilisers and akko v3 yellow switches along with M3 heatset inserts and screws. I made this project to learn more about CAD and making hardware projects. I thought it would be a reasonable next step after a macropad (was way harder actually) however I got to challenge myself and learn new things. 
+A 75% keyboard with a custom case. All parts under $150 USD, uses screw in stabilisers, and has akko v3 yellow switches along with M3 heatset inserts and screws. I made this project to learn more about CAD and making hardware projects. I thought it would be a reasonable next step after a macropad (was way harder actually) however I got to challenge myself and learn new things. 
 
 
 ### Case:
 
-The case was made in Fusion 360 and features a gap in the middle (R.I.P. sound but I wear headphones anyways) and an open honeycomb pattern on the base (even worse for sound !!!!!!)
+The case was made in Fusion 360 and is gasket mounted. 8 screws to ensure the keyboard is secure when printing in two parts. 
 
 ### Firmware:
 
@@ -23,9 +22,9 @@ PCB
 ![pcb](./images/3dpcb1.png)
 
 Case
-![case](./images/casebottom.png)
-![case](./images/casetop.png)
-![case](./images/casetopview.png)
+![case](./images/casebootom.png)
+![case](./images/casetoop.png)
+![case](./images/case.png)
 
 
 ### BOM:
@@ -40,7 +39,8 @@ Case
 | nice!nano v2                  | \$44.00      | \$60.00      | [https://typeractive.xyz/products/nice-nano](https://typeractive.xyz/products/nice-nano)                                                                                     |
 | Keycaps                       | \$9.00       | \$12.00      | [https://www.aliexpress.com/item/1005007321700850.html](https://www.aliexpress.com/item/1005007321700850.html)                                                               |
 | Screws                        | \$1.80       | \$2.50       | [https://www.aliexpress.com/item/4000056753202.html](https://www.aliexpress.com/item/4000056753202.html)                                                                     |
-|                               |              |              |                                                                                                                                                                              |
+|                               |              |              |                                                                                                                                                                               |
+
 | **Total (Shipping included)** | **\$123.60** | **\$170.00** |                                                                                                                                                                              |
 
 

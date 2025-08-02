@@ -117,3 +117,44 @@ Fixed and pcb
 Not too much to say, It was a bit complicated trying to properly map the matrix, as I had to rearrange lots of things and I didn't completely restart (last entry) in theory everything should work fine however i will have to wait until I build my keyboard to see.
 
 **Total time spent: 60mins** 
+
+##July 28: building the project
+
+I decided the old case wasn't good enoug (after my friend pointed out) because It didn't necessarily have a real case and the plate was acting as one. 
+Future allan after building the keyboard: this was the greatest decision ever made for so many reasons, details later in journal 
+![new case](./images/case.png)
+![new case](./images/casetoop.png)
+![new case](./images/casebootom.png)
+
+I soldered the diodes and mcu, I'm still finishing the prints so I loaded the firmware onto the mcu.
+![pcb with diodes](./images/pcbwithdiodes.jpeg)
+side note: I just finished soldering the diodes and the mcu. I realised there were two extra pins that did not have headers and I was very scared I messed up and would have to resolder. Checked the pinout and there is just two random pins that aren't supposed to be soldered for some reason
+
+**Total time spent: 60mins**
+
+##July 30: finishing the project 
+
+I started off by assembling the case. I didn't take a picture of this specifically but each part was printed in two bc it didn't fit on the printer. It was really flimsy so I pretty much melted the plastic with a soldering iron fusing the parts together. 
+time: 30 mins
+
+I was busy snapping all my switches into my plate when I noticed the plate began to start bending due to the outward pressure on the walls of each cutout. I tried to fix this by aliging the plate over the plate over the pcb and inserting the switch like that, however this didn't work and I left it curved. 
+![bending plate](./images/plate%20bending.jpeg)
+
+Fortunately, after soldering the switches into the pcb, It was more stable and no longer as curved
+
+time : 120 mins
+
+for the final part, I just had to add heatset inserts, screws, and put everything together. 
+I'd say this part went ok, because of the plate bending from earlier I had to push down just to be able to screw in the case bottom. It actually created a gap between top + bottom case so I kind of just stuck my soldering Iron into the case and it fixed it. 
+
+![case bottom](./images/case%20bottom%20solder.jpeg)
+
+I added the keycaps and I was finally done my keyboard! 
+
+Final result 
+![keyboard finished](./images/full%20keyboard%20built.jpeg)
+
+This goes with the part where I soldered the switches but I just realised and figured it goes better with the picture I have. Becase I bottom mounted the mcu, the pins poked out slightly too much that it interfered with the plate. I tried cutting the pins shorter and ended up breaking my wire cutters. I then used pliers to bend them in half but still noting worked. I had to cut out that part of my keyboard and leave it exposed. I do plan to create a new plate top, this time covering over the new empty hole + additional features. 
+
+
+
