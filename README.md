@@ -4,7 +4,7 @@ A 75% keyboard with a custom case. All parts under $150 USD, uses screw in stabi
 
 ![final build](./images/final%20build%20pics.jpeg)
 [project demo](https://youtu.be/CJazeotiTts)
-
+[good project demo](https://youtu.be/POquT2XbD1o)
 ### Case:
 
 The case was made in Fusion 360 and is gasket mounted. 8 screws to ensure the keyboard is secure when printing in two parts. 
